@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #v02
-"""
-Projet : _______________
-inspiré de https://g.co/kgs/pU9WWdN
-Auteur : _______________
-Date de création : ______________
-Description : 
 
-"""
 
 #Modules importés
 from tkinter import *
